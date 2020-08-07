@@ -985,6 +985,7 @@ public:
 					key = false;
 					cout << "Time already reserved\n";
 					break;
+
 				}
 			}
 			if (key)
